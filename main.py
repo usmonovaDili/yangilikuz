@@ -81,3 +81,15 @@ class auto:
 p = auto('kia', 1200, 'oq', 1234)
 print(p.get_info())
 print(p.auvto_num())
+
+
+class Brids:
+    def __init__(self,rangi,nomi,vazni)
+        self.rang=rangi
+        self.nomi=nomi
+        self.vazni=vazni
+    def get_info(self)
+        pass
+        
+
+
