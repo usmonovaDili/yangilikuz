@@ -84,12 +84,12 @@ print(p.auvto_num())
 
 
 class Brids:
-    def __init__(self,rangi,nomi,vazni)
+    def __init__(self,rangi,nomi,vazni):
         self.rang=rangi
         self.nomi=nomi
         self.vazni=vazni
-    def get_info(self)
+    def get_info(self):
         pass
-        
+
 
 
